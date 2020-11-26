@@ -1,0 +1,22 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanM09/jest-another-RPG-10-.git"
+  },
+  "author": "Alan Mayer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanM09/jest-another-RPG-10-/issues"
+  },
+  "homepage": "https://github.com/AlanM09/jest-another-RPG-10-#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
